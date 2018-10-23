@@ -32,6 +32,13 @@ form input{
 #header{
     padding-top: 3em!important;
     padding-bottom: 3em!important;
+    background-image: none!important;
+    background-color: #1f487c!important;
+}
+
+#footer{
+ background-image: none!important;
+ background-color: #1f487c!important;
 }
 
 /*
@@ -2925,7 +2932,7 @@ input, select, textarea {
         background-color: #4686a0;
         color: rgba(255, 255, 255, 0.75);
         background-attachment: fixed,                           fixed,                          fixed;
-        background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #72B6BD 5%, #529AC2 50%, #004683);
+        /*background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #72B6BD 5%, #529AC2 50%, #004683);*/
         background-position: top left,                      center center,                  center center;
         background-size: auto,                          cover,                          cover;
         overflow: hidden;
@@ -3084,7 +3091,7 @@ input, select, textarea {
             -webkit-transition: opacity 1s ease;
             -ms-transition: opacity 1s ease;
             transition: opacity 1s ease;
-            background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+            /*background-image: linear-gradient(45deg, #4fa49a, #4361c2);*/
             content: '';
             height: 100%;
             left: 0;
