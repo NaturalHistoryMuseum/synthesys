@@ -1,0 +1,23 @@
+{
+    "name": "synthesys",
+    "version": "1.0.0",
+    "description": "Synthesys",
+    "main": "server.js",
+    "scripts": {
+        "test": "echo \"Error: no tests\" && exit 1",
+        "start": "node server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/NaturalHistoryMuseum/synthesys.git"
+    },
+    "author": "Ben Scott",
+    "bugs": {
+        "url": "https://github.com/NaturalHistoryMuseum/synthesys"
+    },
+    "dependencies": {
+        "body-parser": "^1.18.3",
+        "express": "4.16.0",
+        "lowdb": "^1.0.0",
+    }
+}
