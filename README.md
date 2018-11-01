@@ -1,4 +1,4 @@
-# synthesys
+# Synthesys
 
-Synthesys
+Synthesys holding page.
 
