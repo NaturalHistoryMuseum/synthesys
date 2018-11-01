@@ -1,5 +1,4 @@
-# synthesys
+# Synthesys
 
-Synthesys
+Synthesys holding page.
 
-PORT=3001 node server.js
